@@ -1,0 +1,19 @@
+{
+  "name": "copilot-a2a-incident-agent",
+  "version": "1.0.0",
+  "description": "A2A incident analysis agent that searches a corpus of emails, transcripts, and knowledge articles",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["a2a", "agent", "servicenow", "incident"],
+  "author": "Michelle Foley",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
