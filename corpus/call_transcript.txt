@@ -1,0 +1,33 @@
+CALL TRANSCRIPT
+Date: May 3, 2024
+Duration: 8 minutes
+Support Rep: Mike Thompson
+Caller: Tom Wilson (Finance Department, Building C)
+
+---
+
+MIKE: IT Support, this is Mike. How can I help?
+
+TOM: Yeah hi, my VPN keeps disconnecting. I'm here in Building C and it's been happening all morning. I'll be working and then suddenly I'm disconnected.
+
+MIKE: Building C? Okay, let me check on that. Are you on WiFi or wired?
+
+TOM: WiFi. I'm at my desk but there's no easy way to plug in ethernet here.
+
+MIKE: Yeah, Building C WiFi has been a bit finicky. Okay so we actually had this issue reported a few times. Quick question - when you reconnect, does it work fine for a while before dropping again?
+
+TOM: Yeah exactly. It works for like 20 minutes or so, then drops. Super frustrating because I have to keep stopping what I'm doing.
+
+MIKE: Got it. So the new access points in Building C don't play nice with some VPN clients. First thing - check if your VPN client is updated. Should be version 9.2.1 or higher.
+
+TOM: Let me check... I have 9.1.4.
+
+MIKE: Okay there's your issue. Update to 9.2.1. That patch fixed a lot of compatibility issues with those access points.
+
+TOM: Got it. I'll update now. If that doesn't work?
+
+MIKE: If the update doesn't fix it completely, you can also disable IPv6 in your VPN settings. That's another workaround we've used. But try the update first.
+
+TOM: Sounds good. Thanks Mike.
+
+MIKE: No problem. Let me know if you're still having issues after the update.

@@ -1,0 +1,16 @@
+From: sarah.chen@company.com
+To: it-support@company.com
+Date: March 15, 2024
+Subject: VPN Dropping on Building C Floor 2
+
+Hi IT Team,
+
+We've had 5 people on our team report that their VPN connections keep disconnecting when they're in Building C, especially near the back offices. It happens randomly throughout the day - they'll be working fine for 20 minutes, then suddenly the connection drops.
+
+They're all on the company WiFi in Building C. Remote workers don't seem to have this issue.
+
+Is this something you're aware of? We're losing productivity waiting for reconnects.
+
+Thanks,
+Sarah Chen
+Engineering Manager

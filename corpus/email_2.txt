@@ -1,0 +1,18 @@
+From: james.rodriguez@company.com
+To: sarah.chen@company.com
+Date: March 15, 2024
+Subject: RE: VPN Dropping on Building C Floor 2
+
+Hi Sarah,
+
+We've actually seen this before. Building C had some new WiFi access points installed in January, and we've noticed a few compatibility issues with the Cisco VPN client on certain floors.
+
+A few things your team can try:
+1. Try connecting via wired Ethernet instead of WiFi if possible - this usually resolves it immediately
+2. In the VPN client settings, try disabling IPv6 - we found this helps on those specific access points
+3. Update to the latest VPN client version (we released a patch in February)
+
+If none of those work, let me know and I can escalate to the network team. They might need to adjust the access point configuration.
+
+James
+IT Support
