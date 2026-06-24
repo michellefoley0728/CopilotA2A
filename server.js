@@ -163,6 +163,7 @@ const agentCard = {
     url: AGENT_BASE_URL
   },
   version: "1.0.0",
+  integration: "a2a", 
   capabilities: {
     streaming: false,
     pushNotifications: false,
